@@ -1,0 +1,14 @@
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\bin\Debug\net8.0\AlgoritmsAndDaraStructures.NET.exe
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\bin\Debug\net8.0\AlgoritmsAndDaraStructures.NET.deps.json
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\bin\Debug\net8.0\AlgoritmsAndDaraStructures.NET.runtimeconfig.json
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\bin\Debug\net8.0\AlgoritmsAndDaraStructures.NET.dll
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\bin\Debug\net8.0\AlgoritmsAndDaraStructures.NET.pdb
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\AlgoritmsAndDaraStructures.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\AlgoritmsAndDaraStructures.NET.AssemblyInfoInputs.cache
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\AlgoritmsAndDaraStructures.NET.AssemblyInfo.cs
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\AlgoritmsAndDaraStructures.NET.csproj.CoreCompileInputs.cache
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\AlgoritmsAndDaraStructures.NET.dll
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\refint\AlgoritmsAndDaraStructures.NET.dll
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\AlgoritmsAndDaraStructures.NET.pdb
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\AlgoritmsAndDaraStructures.NET.genruntimeconfig.cache
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\ref\AlgoritmsAndDaraStructures.NET.dll
