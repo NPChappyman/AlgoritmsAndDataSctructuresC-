@@ -14,3 +14,5 @@ Console.WriteLine(w.find(8));
 w.delete(1);
 w.delete(7);
 w.display();
+
+Console.WriteLine();
