@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgoritmsAndDaraStructures.NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b379449b8209c5fcbdf7f7b2d6ba1b4163b2f9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgoritmsAndDaraStructures.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgoritmsAndDaraStructures.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

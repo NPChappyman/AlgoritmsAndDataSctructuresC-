@@ -3,9 +3,53 @@
 //Delete O(N)
 //Find O(N)
 
+using System.Runtime.ConstrainedExecution;
+
 namespace AlgoritmsAndDaraStructures.NET.Array
 {
-    internal class Array<T>
+    public static class Sort<T> where T : IComparable<T>
+    {
+        public static void bubblesort(ref Array<T> arr,int size)
+        {
+            for (int i = 0; i < size-1; i++)
+            {
+                for (int j = 0; j<size-1-i; j++)
+                {
+                    if (arr.get(j).CompareTo(arr.get(j+1)) >0)
+                        swap(ref arr,j,j+1);
+                }
+            }
+        }
+
+        public static void quicksort(ref Array<T> arr,int i, int j)
+        {
+            if (i >= j) return;
+            int c = i;
+            for (int ii = i+1; ii < j; ii++)
+            {
+                if (arr.get(ii).CompareTo(arr.get(i))<0)
+                {
+                    swap(ref arr,++c,ii);
+                }
+            }
+            swap(ref arr,i,c);
+            if (c>i)
+            {
+                quicksort(ref arr,i,c);
+            }
+            if (j>c+1)
+            {
+                quicksort(ref arr, c + 1, j);
+            }
+        }
+        public static void swap(ref Array<T> arr, int i ,int j)
+        {
+            T temp = arr.get(i);
+            arr.set(arr.get(j), i);
+            arr.set(temp, j);
+        }
+    }
+    public  class Array<T> where T : IComparable<T>
     {
         private T[] a;
         private int nElems;
@@ -15,7 +59,14 @@ namespace AlgoritmsAndDaraStructures.NET.Array
             a = new T[max];
             nElems = 0;
         }
-
+        public T get(int i)
+        {
+            return a[i];
+        }
+        public void set(T key, int ind)
+        {
+            a[ind] = key;
+        }
         public int find(T key)
         {
             int j;
@@ -70,6 +121,32 @@ namespace AlgoritmsAndDaraStructures.NET.Array
                 return true;
             }
             return false;
+        }
+        public int binarysearch(T key)
+        {
+            int l = 0;
+            int r=nElems-1;
+            int cur;
+            while (true)
+            {
+                cur = (r + l) / 2;
+                if (a[cur].Equals(key))
+                    return cur;
+                else if (l > r)
+                    return -1;
+                else
+                {
+                    if (a[cur].CompareTo( key)>0)
+                        r = cur - 1;
+                    else
+                        l = cur + 1;
+                }
+            }
+
+        }
+        public int size()
+        {
+            return nElems;
         }
         public void display()
         {

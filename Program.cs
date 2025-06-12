@@ -16,3 +16,5 @@ w.delete(7);
 w.display();
 
 Console.WriteLine();
+Sort<int>.quicksort(ref w, 0, w.size());
+w.display();

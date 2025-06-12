@@ -12,3 +12,4 @@ C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraSt
 C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\AlgoritmsAndDaraStructures.NET.pdb
 C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\AlgoritmsAndDaraStructures.NET.genruntimeconfig.cache
 C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\ref\AlgoritmsAndDaraStructures.NET.dll
+C:\Users\Пири\source\repos\AlgoritmsAndDaraStructures.NET\AlgoritmsAndDaraStructures.NET\obj\Debug\net8.0\AlgoritmsAndDaraStructures.NET.sourcelink.json
